@@ -1,4 +1,4 @@
-# LOUD Unofficial Unit Economics Balance
+# LOUD Lucidity (UEF - T4 Fighter/Bomber) fix 
 
 _Please note: This is in no way a part of or related to the official LOUD Project mod for Supreme Commander: Forged Alliance!_
 
