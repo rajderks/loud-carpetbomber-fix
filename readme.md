@@ -1,6 +1,6 @@
 # LOUD Unofficial Unit Economics Balance
 
-_Please note: This is in no way a part of the official LOUD Project mod for Supreme Commander: Forged Alliance!_
+_Please note: This is in no way a part of or related to the official LOUD Project mod for Supreme Commander: Forged Alliance!_
 
 ### Installation
 
