@@ -17,19 +17,20 @@ The bombs are somewhat randomized so each carpet will be unique.
 Due to the increase in the AOE the role has changed from a single-target bomber, which it really was, to a more AOE oriented bomber.  
 Damage values have been lowered so that it now hits a lot more units; T3 unit groups may require 2 to 3 runs in order to be drained of hitpoints!
 
-#### Original
+### Original
 
 ![0](0.png?raw=true)
 
-#### Modded
+### Modded
 
-![1](1.png?raw=true)
 
 ![2](2.png?raw=true)
 
+![4](4.png?raw=true)
+
 ![3](3.png?raw=true)
 
-![4](4.png?raw=true)
+![1](1.png?raw=true)
 
 ### Contribute
 
